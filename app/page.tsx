@@ -15,7 +15,10 @@ export default function Home() {
         />
       </div>
       <div className="">
-        <Button className="bg-[#ADC178] hover:bg-[#ADC178]" variant="outline">
+        <Button
+          className="bg-[#ADC178] hover:bg-[#d3deb5] outline-none"
+          variant="outline"
+        >
           Get Started
         </Button>
       </div>
